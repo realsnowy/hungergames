@@ -1,3 +1,13 @@
 main: tf.justdisablevac.hungergames.Main
 name: hungergames
 version: 0.1
+
+commands:
+  test:
+    description: Test command
+  saveloc:
+    description: SaveLoc command
+  participate:
+    description: Participate command
+  leave:
+    description: Leave command
