@@ -1,0 +1,31 @@
+# Compiled plugin files
+/target/
+
+# IDE files
+/.idea/
+/.vscode/
+default.code-workspace
+
+# Build tools
+/build/
+/bin/
+
+# Logs
+/logs/
+
+# Configuration files
+/config.yml
+
+# Temporary files
+*.tmp
+
+# Plugin data
+/data/
+
+# External libraries
+/lib/
+
+# Server files
+/server.properties
+/bukkit.yml
+/spigot.yml
